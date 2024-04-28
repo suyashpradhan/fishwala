@@ -11,6 +11,14 @@ Document
 Use a better box model (opinionated).
 */
 
+.custom-color{
+  color: #36B6FF
+}
+
+.custom-color-bg{
+  background-color: #36B6FF
+}
+
 *,
 ::before,
 ::after {
